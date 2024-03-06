@@ -1,0 +1,161 @@
+@font-face {
+	font-family:'Berkeley Mono';
+    font-weight:normal;
+	src:url('/assets/fonts/bm-regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family:'Berkeley Mono';
+    font-weight:bold;
+    src:url('/assets/fonts/bm-bold.woff2') format('woff2');
+}
+
+/* Globals */
+* {
+    margin:0;
+    padding:0;
+}
+
+html, body {
+    height:100%;
+}
+
+body {
+    background-color:#F9F9F9;
+    color:#333333;
+    font-family:'Berkeley Mono', Menlo, Monaco, monospace;
+    font-size:12px;
+    *font-size:small;
+    text-align:center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size:100%;
+}
+
+h1 {
+    margin-bottom:1em;
+}
+
+p {
+    margin:1em 0;
+}
+
+a {
+    color:#333333;
+    text-decoration:none;
+}
+
+a:hover {
+    opacity:60%;
+}
+
+a:visited {
+    color:#333333;
+}
+
+table {
+    font-size:inherit;
+    font:100%;
+}
+
+
+/* Index */
+ul.posts {
+    list-style-type:none;
+    margin-bottom:2em;
+}
+
+    ul.posts li {
+        line-height:1.75em;
+    }
+
+    ul.posts span {
+        color:#333333;
+        font-size:100%;
+    }
+
+
+/* Main */
+.site {
+    font-size:100%;
+    text-align:left;
+    width:40em;
+    margin:3em auto 2em auto;
+    line-height:1.5em;
+}
+
+.title {
+    color:#333333;
+    font-weight:normal;
+    margin-bottom:2em;
+}
+
+    .site .title a {
+        color:#333333;
+        text-decoration:none;
+    }
+
+    .site .title a:hover {
+        opacity:60%;
+    }
+
+    .site .meta {
+        color:#333333;
+    }
+
+    .site .footer {
+        font-size:80%;
+        color:#333333;
+        border-top:1px solid #333333;
+        margin-top:2em;
+        overflow:hidden;
+        line-height:1.5em;
+    }
+
+        .site .footer .contact {
+            float:left;
+            margin-right:3.5em;
+        }
+
+            .site .footer .contact a {
+                color:#333333;
+                text-decoration:underline;
+            }
+
+
+/* Posts */
+#post {
+
+}
+
+    #post pre {
+        border:1px solid #999999;
+        background-color:#F9F9F9;
+        padding:0 0.4em;
+    }
+
+    #post ul, #post ol {
+        margin-left:1.35em;
+    }
+
+    #post code {
+        border:1px solid #999999;
+        background-color:#F9F9F9;
+        font-size:85%;
+        padding:0 0.2em;
+    }
+
+        #post pre code {
+            border:none;
+        }
+
+    #post pre.terminal {
+        border:1px solid #333333;
+        background-color:#333333;
+        color:#F9F9F9;
+    }
+
+    #post pre.terminal code {
+        background-color:#333333;
+    }
