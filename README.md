@@ -6,3 +6,4 @@ The current iteration of my personal website.
 - [ ] Optimize images
 - [ ] Host images locally
 - [ ] Minify all code
+- [ ] Create sitemap
