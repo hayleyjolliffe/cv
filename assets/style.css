@@ -54,6 +54,11 @@ a:visited {
     color:#333333;
 }
 
+img {
+    max-width:40em;
+    height:auto;
+}
+
 table {
     font-size:inherit;
     font:100%;
