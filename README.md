@@ -7,3 +7,5 @@ The current iteration of my personal website.
 - [ ] Host images locally
 - [ ] Minify all code
 - [ ] Create sitemap
+- [ ] Make project pages public
+- [ ] Create guestbook
