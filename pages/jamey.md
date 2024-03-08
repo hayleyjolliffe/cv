@@ -21,7 +21,7 @@ permalink: /jamey/
         <a href="https://www.figma.com/proto/Ni7x12FC2wIM1nwbBxwSzZ/Jamey-%7C-Demos?page-id=10%3A22&type=design&node-id=10-25&viewport=231%2C768%2C0.05&t=2s274D4OibAV0F7r-1&scaling=contain&mode=design" target="_blank">Park Rangers Capital</a>
     </li>
 </ul>
-<br><br>
+<br>
 
 ## Brand
 <ul>
