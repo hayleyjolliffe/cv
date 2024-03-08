@@ -8,11 +8,13 @@ permalink: /jamey/
 {{ page.title }}
 ================
 
-Hey Jamey! Aiming to make this easier on you- everything here is tailored to the three things you were looking for plus a couple related things I have up on Figma Community right now. Everything should be a Figma prototype link, and you're welcome to explore my [main site](https://calebjolliffe.co) for anything else you might be interested in seeing. Otherwise, shoot me a message on [Twitter](https://twitter.com/calebjolliffe) or [email](mailto:calebjolliffe@proton.me)!
+Hey Jamey! Aiming to make this easier on you- everything here is tailored to the three things you were looking for plus a couple related things I have up on Figma Community right now.
 
-Cheers,
+Everything should be a Figma prototype link, and you're welcome to explore my [main site](https://calebjolliffe.co) for anything else you might be interested in seeing. 
 
-Caleb
+Otherwise, shoot me a message on [Twitter](https://twitter.com/calebjolliffe) or [email](mailto:calebjolliffe@proton.me)!
+
+C
 
 ## Decks
 <ul class="posts">
