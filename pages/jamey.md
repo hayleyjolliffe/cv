@@ -51,3 +51,13 @@ permalink: /jamey/
         <a href="https://calebjolliffe.co" target="_blank">Personal Site</a>
     </li>
 </ul>
+
+All other web/product stuff is either in progress and not refined enough yet to share or isn't public yet.
+
+If you want to see more product capabilities, let me know and I can build something to send over.
+
+For anything else, shoot me a [DM](https://twitter.com/calebjolliffe/) or [email](mailto:calebjolliffe@proton.me) and I'd be more than happy to send it over.
+
+Cheers,
+
+Caleb
