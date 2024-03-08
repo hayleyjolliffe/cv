@@ -36,9 +36,9 @@ permalink: /jamey/
         Park Rangers Capital (linked above)
     </li>
     <li>
-        <span>2023</span>
+        <span>Various</span>
         &bull;
-        <a href="" target="_blank"></a>
+        <a href="https://www.figma.com/proto/Ni7x12FC2wIM1nwbBxwSzZ/Jamey-%7C-Demos?page-id=17%3A931&type=design&node-id=19-932&viewport=104%2C198%2C0.05&t=6wRxiBg0reHyAJlG-1&scaling=contain&mode=design" target="_blank">Select Visuals</a>
     </li>
 </ul>
 <br>
@@ -50,6 +50,24 @@ permalink: /jamey/
         &bull;
         <a href="https://calebjolliffe.co" target="_blank">Personal Site</a>
     </li>
+</ul>
+
+## Other
+<ul class="posts">
+    <li>
+        <span>Figma</span>
+        &bull;
+        <a href="https://www.figma.com/community/file/1146879055185331497/social-proof" target="_blank">Social Proof Template</a>
+    </li>
+    <li>
+        <span>Figma</span>
+        &bull;
+        <a href="https://www.figma.com/community/file/1142308631181984935/stylescape" target="_blank">Stylescape Template</a>
+    </li>
+    <li>
+        <span>Figma</span>
+        &bull;
+        <a href="https://www.figma.com/community/file/1150987829658682539/invoice-template" target="_blank">Invoice Template</a>
 </ul>
 
 All other web/product stuff is either in progress and not refined enough yet to share or isn't public yet.
