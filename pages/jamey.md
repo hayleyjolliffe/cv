@@ -9,7 +9,7 @@ permalink: /jamey/
 ================
 
 ## Decks
-<ul>
+<ul class="posts">
     <li>
         <span>Seed</span>
         &bull;
@@ -24,7 +24,7 @@ permalink: /jamey/
 <br>
 
 ## Brand
-<ul>
+<ul class="posts">
     <li>
         <span>WIP</span>
         &bull;
@@ -44,7 +44,7 @@ permalink: /jamey/
 <br>
 
 ## Web/Product
-<ul>
+<ul class="posts">
     <li>
         <span>2024</span>
         &bull;
