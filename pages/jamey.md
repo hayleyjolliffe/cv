@@ -10,9 +10,9 @@ permalink: /jamey/
 
 Hey Jamey! Aiming to make this easier on you- everything here is tailored to the three things you were looking for plus a couple related things I have up on Figma Community right now.
 
-Everything should be a Figma prototype link, and you're welcome to explore my [main site](https://calebjolliffe.co) for anything else you might be interested in seeing. 
+Everything should be a Figma prototype link, and you're welcome to explore my <ins>[main site](https://calebjolliffe.co)</ins> for anything else you might be interested in seeing. 
 
-Otherwise, shoot me a message on [Twitter](https://twitter.com/calebjolliffe) or [email](mailto:calebjolliffe@proton.me)!
+Otherwise, shoot me a message on <ins>[Twitter](https://twitter.com/calebjolliffe)</ins> or <ins>[email](mailto:calebjolliffe@proton.me)</ins>!
 
 C
 
