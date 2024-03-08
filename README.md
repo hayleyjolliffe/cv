@@ -9,4 +9,3 @@ The current iteration of my personal website.
 - [ ] Create sitemap
 - [ ] Make project pages public
 - [ ] Create guestbook
-- [ ] Create autopublishing workflow
