@@ -8,6 +8,12 @@ permalink: /jamey/
 {{ page.title }}
 ================
 
+Hey Jamey! Aiming to make this easier on you- everything here is tailored to the three things you were looking for plus a couple related things I have up on Figma Community right now. Everything should be a Figma prototype link, and you're welcome to explore my [main site](https://calebjolliffe.co) for anything else you might be interested in seeing. Otherwise, shoot me a message on [Twitter](https://twitter.com/calebjolliffe) or [email](mailto:calebjolliffe@proton.me)!
+
+Cheers,
+
+Caleb
+
 ## Decks
 <ul class="posts">
     <li>
@@ -70,12 +76,6 @@ permalink: /jamey/
         <a href="https://www.figma.com/community/file/1150987829658682539/invoice-template" target="_blank">Invoice Template</a>
 </ul>
 
-All other web/product stuff is either in progress and not refined enough yet to share or isn't public yet.
+All other web/product stuff is either in progress and not refined enough to share or isn't public yet.
 
-If you want to see more product capabilities, let me know and I can build something to send over.
-
-For anything else, shoot me a [DM](https://twitter.com/calebjolliffe/) or [email](mailto:calebjolliffe@proton.me) and I'd be more than happy to send it over.
-
-Cheers,
-
-Caleb
+If you want to see more product capabilities, let me know and I can build something new to send over.
