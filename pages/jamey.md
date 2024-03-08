@@ -27,7 +27,6 @@ Caleb
         <a href="https://www.figma.com/proto/Ni7x12FC2wIM1nwbBxwSzZ/Jamey-%7C-Demos?page-id=10%3A22&type=design&node-id=10-25&viewport=231%2C768%2C0.05&t=2s274D4OibAV0F7r-1&scaling=contain&mode=design" target="_blank">Park Rangers Capital</a>
     </li>
 </ul>
-<br>
 
 ## Brand/Marks/Visuals
 <ul class="posts">
@@ -47,7 +46,6 @@ Caleb
         <a href="https://www.figma.com/proto/Ni7x12FC2wIM1nwbBxwSzZ/Jamey-%7C-Demos?page-id=17%3A931&type=design&node-id=19-932&viewport=104%2C198%2C0.05&t=6wRxiBg0reHyAJlG-1&scaling=contain&mode=design" target="_blank">Select Visuals</a>
     </li>
 </ul>
-<br>
 
 ## Web/Product
 <ul class="posts">
@@ -74,6 +72,7 @@ Caleb
         <span>Figma</span>
         &bull;
         <a href="https://www.figma.com/community/file/1150987829658682539/invoice-template" target="_blank">Invoice Template</a>
+    </li>
 </ul>
 
 All other web/product stuff is either in progress and not refined enough to share or isn't public yet.
