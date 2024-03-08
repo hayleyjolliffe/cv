@@ -8,7 +8,9 @@ permalink: /jamey/
 {{ page.title }}
 ================
 
-Hey Jamey! Aiming to make this easier on you- everything here is tailored to the three things you were looking for plus a couple related things I have up on Figma Community right now.
+Hey Jamey!
+
+Aiming to make this easier on you- everything here is tailored to the three things you were looking for plus a couple related things I have up on Figma Community right now.
 
 Everything should be a Figma prototype link, and you're welcome to explore my <ins>[main site](https://calebjolliffe.co)</ins> for anything else you might be interested in seeing. 
 
