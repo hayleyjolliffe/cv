@@ -23,17 +23,17 @@ permalink: /jamey/
 </ul>
 <br>
 
-## Brand
+## Brand/Marks/Visuals
 <ul class="posts">
     <li>
-        <span>WIP</span>
+        <span>2023</span>
         &bull;
-        <a href=""></a>
+        Edge (linked above)
     </li>
     <li>
         <span>2023</span>
         &bull;
-        <a href="" target="_blank"></a>
+        Park Rangers Capital (linked above)
     </li>
     <li>
         <span>2023</span>
