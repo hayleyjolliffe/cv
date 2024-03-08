@@ -16,8 +16,6 @@ Otherwise, shoot me a message on <ins>[Twitter](https://twitter.com/calebjolliff
 
 C
 
----
-
 ## Decks
 <ul class="posts">
     <li>
