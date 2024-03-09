@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Atomic
+author: Caleb Jolliffe
 permalink: /atomic/
 ---
 
 {{ page.title }}
 ================
 
-This is the Atomic project page. It'll get finished shortly.
+Atomic's dedicated project page.
