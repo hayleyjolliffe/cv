@@ -21,7 +21,7 @@ Some of my favourite projects that I've worked on have actually been ones that f
 ## What do you think is your greatest responsibility as a designer?
 I believe my greatest responsibility as a designer is designing for the future. The work we do as creatives is always directly impacting the future of people and of the planet. It's important to remember that even the smallest teams have the potential to hold tremendous influence in the world, and that the work we do is not for us, it's not even for the businesses we're working with and for—it's for future generations. Our responsibility as creatives is to shape positive change for future creatives and the planet.
 
-> The work we do as creatives is always directly impacting the future of people and of the planet.
+> ***"The work we do as creatives is always directly impacting the future of people and of the planet."***
 
 ![](/assets/images/nubbb2.jpg)
 
