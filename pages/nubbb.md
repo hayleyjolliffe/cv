@@ -25,7 +25,7 @@ I believe my greatest responsibility as a designer is designing for the future. 
 
 ![](/assets/images/nubbb2.jpg)
 
-## As designers and storytellers, we have the ability to shape minds and change people's behaviour. What do you think would help inspire more of us to actively choose to use our craft for the reason?
+## As designers and storytellers, we have the ability to shape minds and change people's behaviour. What do you think would help inspire more of us to actively choose to use our craft for the right reasons?
 Better access to knowledge + education alternatives! We're so lucky today that we have access to so much information, yet there's still stigma surrounding learning that isn't the 'traditional' college route. Some of the best advice I've been given, the most useful knowledge I've gained, and the most inspirational people I've met have all been through social media. If it wasn't for social media and the tools it's provided me with, I don't know where I would be as a creative. I think there's a lot of passion that goes uncultivated, and if we eliminate the stigma associated with learning outside of traditional school environments, we'd see a lot less confusion and fear, and a lot more budding creatives (or any other career path!) diving into the things they're passionate about.
 
 ## What's your message or advice to the new and upcoming to the design profession?
