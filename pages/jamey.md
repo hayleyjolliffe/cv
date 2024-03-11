@@ -22,12 +22,12 @@ C
 <ul class="posts">
     <li>
         <span>Seed</span>
-        &bull;
+        &middot;
         <a href="https://www.figma.com/proto/Ni7x12FC2wIM1nwbBxwSzZ/Jamey-%7C-Demos?page-id=0%3A1&type=design&node-id=1-4&viewport=383%2C278%2C0.02&t=wShndZuu0e66tiqr-1&scaling=contain" target="_blank">Edge</a>
     </li>
     <li>
         <span>Fund I</span>
-        &bull;
+        &middot;
         <a href="https://www.figma.com/proto/Ni7x12FC2wIM1nwbBxwSzZ/Jamey-%7C-Demos?page-id=10%3A22&type=design&node-id=10-25&viewport=231%2C768%2C0.05&t=2s274D4OibAV0F7r-1&scaling=contain&mode=design" target="_blank">Park Rangers Capital</a>
     </li>
 </ul>
@@ -36,17 +36,17 @@ C
 <ul class="posts">
     <li>
         <span>2023</span>
-        &bull;
+        &middot;
         Edge (linked above)
     </li>
     <li>
         <span>2023</span>
-        &bull;
+        &middot;
         Park Rangers Capital (linked above)
     </li>
     <li>
         <span>Various</span>
-        &bull;
+        &middot;
         <a href="https://www.figma.com/proto/Ni7x12FC2wIM1nwbBxwSzZ/Jamey-%7C-Demos?page-id=17%3A931&type=design&node-id=19-932&viewport=104%2C198%2C0.05&t=6wRxiBg0reHyAJlG-1&scaling=contain&mode=design" target="_blank">Select Visuals</a>
     </li>
 </ul>
@@ -55,7 +55,7 @@ C
 <ul class="posts">
     <li>
         <span>2024</span>
-        &bull;
+        &middot;
         <a href="https://calebjolliffe.co" target="_blank">Personal Site</a>
     </li>
 </ul>
@@ -64,17 +64,17 @@ C
 <ul class="posts">
     <li>
         <span>Figma</span>
-        &bull;
+        &middot;
         <a href="https://www.figma.com/community/file/1146879055185331497/social-proof" target="_blank">Social Proof Template</a>
     </li>
     <li>
         <span>Figma</span>
-        &bull;
+        &middot;
         <a href="https://www.figma.com/community/file/1142308631181984935/stylescape" target="_blank">Stylescape Template</a>
     </li>
     <li>
         <span>Figma</span>
-        &bull;
+        &middot;
         <a href="https://www.figma.com/community/file/1150987829658682539/invoice-template" target="_blank">Invoice Template</a>
     </li>
 </ul>
