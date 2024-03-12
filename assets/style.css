@@ -64,6 +64,11 @@ table {
     font:100%;
 }
 
+input {
+    font-family:'Berkeley Mono', Menlo, Monaco, monospace;
+    font-size:inherit;
+}
+
 
 /* Index */
 ul.posts {
