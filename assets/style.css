@@ -67,6 +67,7 @@ table {
 input {
     font-family:'Berkeley Mono', Menlo, Monaco, monospace;
     font-size:inherit;
+    margin-top:0;
 }
 
 
@@ -125,7 +126,7 @@ ul.posts {
 
         .site .footer .contact {
             float:left;
-            margin-right:3.5em;
+            margin-right:4em;
         }
 
             .site .footer .contact a {
