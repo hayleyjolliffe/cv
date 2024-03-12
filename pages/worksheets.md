@@ -8,18 +8,7 @@ permalink: /worksheets/
 {{ page.title }}
 ================
 
-<details>
-<summary>Website Worksheet</summary>
-<br>
-<ol>
-    <li>Question</li>
-    <li>Question</li>
-    <li>Question</li>
-    <li>Question</li>
-    <li>Question</li>
-</ol>
+*I'm in the process of migrating my systems to Proton for increased security. There is no threat to you or your information, but if your project is not already on the Proton system and you would like it to be, please let me know when you return the worksheet and we will move you over to the new system.*
 
-## Next Steps
-
-## Quick Note
-I'm in the process of migrating my systems to Proton to increase security. There's no threat to you, but if you do want your project migrated to Proton before we finalize details, please check the box on the worksheet before you send it back.
+- [Website Worksheet]()
+- [Brand Worksheet]()
