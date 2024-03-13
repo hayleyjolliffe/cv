@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Quit
-permalink: /quit/
+title: Quit While You're On Top
+author: Caleb Jolliffe
+date: 2024-03-06 13:00:00
+permalink: /:slug
 read: 2
 ---
-
-{{ page.title }}
-================
-<p class="meta">06 March 2024 &bull; {{ page.read }} minute read</p>
 
 I've been employing a controversial strategy to strengthen my deep work sessions. When I notice my flow state has gone on "too long", I quit while I'm on top of things. I shut my laptop down for the night and switch over to analog activities. There's a few reasons for this:
 

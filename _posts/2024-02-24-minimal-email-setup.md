@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Email
-permalink: /email/
+title: Minimal Email Setup
+author: Caleb Jolliffe
+date: 2024-02-24 13:00:00
+permalink: /:slug
 read: 1
 ---
-
-{{ page.title }}
-================
-<p class="meta">24 February 2024 &bull; {{ page.read }} minute read</p>
 
 > This is a follow-up to [Manu's](https://manuelmoreale.com/emails) and [Carl's](https://carlbarenbrug.com/minimal-email-setup) articles on creating a minimal email setup. In this, I'll talk about my personal experiences and share my own setup.*
 

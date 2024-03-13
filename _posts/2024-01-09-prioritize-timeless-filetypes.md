@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Filetype
-permalink: /filetype/
+title: Prioritize Timeless Filetypes
+author: Caleb Jolliffe
+date: 2024-01-09 13:00:00
+permalink: /:slug
 read: 2
 ---
-
-{{ page.title }}
-================
-<p class="meta">09 January 2024 &bull; {{ page.read }} minute read</p>
 
 At the end of 2023, inspired by Steph Ango's [file over app](https://stephango.com/file-over-app) philosophy, I began taking control of my digital life.
 

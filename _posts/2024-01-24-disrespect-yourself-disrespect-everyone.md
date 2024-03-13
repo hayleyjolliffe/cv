@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Disrespect
-permalink: /disrespect/
+title: Disrespect Yourself, Disrespect Everyone
+author: Caleb Jolliffe
+date: 2024-01-24 13:00:00
+permalink: /:slug
 read: 1
 ---
 
