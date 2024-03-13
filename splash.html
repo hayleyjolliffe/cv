@@ -1,0 +1,80 @@
+---
+layout: nil
+title: &#J0r
+author: Caleb Jolliffe
+permalink: /splash
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>&#J0r</title>
+<style>
+    @font-face {
+	    font-family:'Berkeley Mono';
+        font-weight:normal;
+	    src:url('https://calebjolliffe.co/assets/fonts/bm-regular.woff2') format('woff2');
+    }
+
+    @font-face {
+        font-family:'Berkeley Mono';
+        font-weight:bold;
+        src:url('https://calebjolliffe.co/assets/fonts/bm-bold.woff2') format('woff2');
+    }
+
+    :root {
+        background-color:#111;
+        color:#F9F9F9;
+        font-family:'Berkeley Mono';
+        font-weight:regular;
+        font-size:12px;
+        line-height:150%;
+    }
+
+    ul {
+        list-style-type:none;
+        text-align:center;
+    }
+
+    div {
+        margin:0 auto;
+        margin-top:25%;
+    }
+
+    .matrix {
+        font-weight:bold;
+    }
+</style>
+</head>
+<body>
+<div>
+    <ul>
+        <li>
+            <span class="matrix">&#J0r</span>
+        </li>
+        <li>coming soon</li>
+    </ul>
+</div>
+
+<script>
+    const glyphs = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+';
+    function randomGlyph() {
+        return glyphs[Math.floor(Math.random() * glyphs.length)];
+    }
+    function bungleText(element) {
+        let text = element.textContent;
+        let matrixText = '';
+        for (let i = 0; i < text.length; i++) {
+            matrixText += randomGlyph();
+        }
+        element.textContent = matrixText;
+    }
+    const textElements = document.querySelectorAll('.matrix');
+    textElements.forEach(textElement => {
+        setInterval(() => {
+            bungleText(textElement);
+        }, 125);
+    });
+</script>
+</body>
+</html>

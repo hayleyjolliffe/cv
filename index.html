@@ -20,7 +20,7 @@ title: Caleb Jolliffe
         <li>
             <span>Coming Soon</span>
             &middot;
-            <a href="">ddsmpl</a>
+            <span class="matrix"><a href="/splash">&#J0r</a></span>
         </li>
         <li>
             <span>Coming Soon</span>
@@ -47,3 +47,24 @@ title: Caleb Jolliffe
         </li>
     </ul>
 </div>
+
+<script>
+    const glyphs = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+';
+    function randomGlyph() {
+        return glyphs[Math.floor(Math.random() * glyphs.length)];
+    }
+    function bungleText(element) {
+        let text = element.textContent;
+        let matrixText = '';
+        for (let i = 0; i < text.length; i++) {
+            matrixText += randomGlyph();
+        }
+        element.textContent = matrixText;
+    }
+    const textElements = document.querySelectorAll('.matrix');
+    textElements.forEach(textElement => {
+        setInterval(() => {
+            bungleText(textElement);
+        }, 125);
+    });
+</script>
