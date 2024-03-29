@@ -21,7 +21,7 @@ The burnout hasn't simply vanished along with the deleted scripts and CSS rules,
 In the spirit of building in public, and "more sharing, less JS", here's what I got up to this week:
 
 - With the help of [Teach Yourself C in 21 Days](https://nibmehub.com/opac-service/pdf/read/Sams%20Teach%20Yourself%20C%20in%2021%20Days.pdf) and the quintessential [K&R](https://a.co/d/50GXwLo), I started learning C.
-- Inspired by [Jason McCarthy's video for Huckberry Homes](https://youtu.be/oHn6iLT0M0A?si=aSVzqHpUlOFuv5Ve) I started [rucking](https://www.goruck.com/pages/what-is-rucking#:~:text=it's%20a%20fitness%20thing.,hiking%20is%20simply%20called%20rucking.).
+- Inspired by [Jason McCarthy's video for Huckberry Homes](https://youtu.be/oHn6iLT0M0A?si=aSVzqHpUlOFuv5Ve), I started [rucking](https://www.goruck.com/pages/what-is-rucking#:~:text=it's%20a%20fitness%20thing.,hiking%20is%20simply%20called%20rucking.).
 - I reread Cal Newport's [Slow Productivity](https://calnewport.com/slow/).
 - I minified my website's code. It didn't do much to lower my carbon usage, as my site's built with Jeykll and I haven't found a viable way to minify YAML or Markdown without using JS. [Let me know](mailto:calebjolliffe@proton.me) if you have a method.
 - I created the first iteration of a new project's website. (Details soon)
