@@ -35,4 +35,4 @@ Catch ya next week,
 
 Cal
 
-PS: Joining the [One a Month Club]() is the easiest way to support my work, keep the lights on, and hold me accountable to finish this MVP. It's by no means necessary, but immensely appreciated. Also, be sure to show [Jira](https://janjira.work) and [Joe](https://joeczepil.com) some love.
+PS: Joining the [One a Month Club](https://ko-fi.com/calebjolliffe) is the easiest way to support my work, keep the lights on, and hold me accountable to finish this MVP. It's by no means necessary, but immensely appreciated. Also, be sure to show [Jira](https://janjira.work) and [Joe](https://joeczepil.com) some love.
