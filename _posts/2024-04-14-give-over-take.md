@@ -3,7 +3,6 @@ title: Give Over Take
 date: 2024-04-14
 categories: log, training
 tags: research, action, provide, knowledge, alignment
-published: false
 ---
 
 I'm a huge fan of giving more than you take. If you document your process while working, you set yourself up to share your wealth of experience and knowledge with those that want to be where you're at. They're here to learn from you, to do the work that you do, and that's a prime opportunity.
