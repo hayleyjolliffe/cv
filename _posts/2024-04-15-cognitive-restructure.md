@@ -3,7 +3,6 @@ title: Cognitive Restructure
 date: 2024-04-15
 categories: log, training
 tags: research, action, mindset, growth
-published: false
 ---
 
 A technical term for "mindset shift", and a fundamental to overcome plateaus in growth.
