@@ -3,7 +3,6 @@ title: Ruthless Simplification
 date: 2024-04-16
 categories: log, training
 tags: research, action, simplify
-published: false
 ---
 
 Elon Musk's dedication to ruthlessly simplify anything built at any of his companies is massively inspirational, and something more creatives should aspire towards.
