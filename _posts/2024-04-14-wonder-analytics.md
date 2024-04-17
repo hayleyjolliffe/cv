@@ -3,7 +3,6 @@ title: Wonder Analytics
 date: 2024-04-14
 categories: slow-sunday
 tags: analytics, nostalgia, web, thoughts
-published: false
 ---
 
 As GDPR compliance ramps up, I can't help but feel frustrated at how many more popups I notice. It seems like every website and their mother is screaming "Hey, we're tracking your every move! Take it and like it!" from the rooftops with every cookie notification, no matter how many toggle switches they provide.

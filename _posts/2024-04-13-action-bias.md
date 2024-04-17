@@ -3,6 +3,7 @@ title: Action Bias
 date: 2024-04-13
 categories: log, training
 tags: research, action, goals, ownership, consistency
+published: true
 ---
 
 Favour action over inaction.
