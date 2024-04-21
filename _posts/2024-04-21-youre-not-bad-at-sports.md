@@ -3,12 +3,12 @@ title: You're Not Bad At Sports
 date: 2024-04-21
 categories: slow-sunday
 tags: reframing, building, build-in-public
-published: false 
 ---
 
 I was terrible at sports growing up. I'm not exaggerating. I was so bad that coaches would routinely pull my parents aside to voice their concerns that it just "wasn't the right sport for me". This happened in every sport I tried.
 
 In my mid-twenties, I can look back and see what happened:
+
 - I didn't suck at swimming, I just have a late birthday. I struggled to keep up with the other kids because I was often almost a year younger and several inches shorter than everyone there. That's a massive disadvantage for a kid learning to swim.
 - I didn't suck at baseball, I just didn't know I was left-handed. I was the worst pitcher for most of the season because I was throwing with the wrong hand.
 - I didn't suck at soccer, I just genuinely don't like it. Sorry soccer fans, the mud puddles, worms, and cloud shapes were just far more interesting. Also the late birthday thing was definitely a disadvantage here too, it's terrifying to have kids 6 inches taller sprinting at you.
