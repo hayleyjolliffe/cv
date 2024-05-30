@@ -15,7 +15,7 @@ Building in public has always been screaming into the Internet's void and crossi
 
 I hope I'm not the only that feels this way.
 
-If I've landed on your radar, shoot me an email at calebjolliffe@proton.me and let me know where you're reading from. I don't have anything to sell you, and I definitely won't add you to my Manipulation Database. I just think it'd be neat to see my map light up again.
+If I've landed on your radar, shoot me an email at hayleyjolliffe@proton.me and let me know where you're reading from. I don't have anything to sell you, and I definitely won't add you to my Manipulation Database. I just think it'd be neat to see my map light up again.
 
 As for what's next, I'm considering two things:
 1. Adding a guestbook for a new generation of Web traveller proclamations
