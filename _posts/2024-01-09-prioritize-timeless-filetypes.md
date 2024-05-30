@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prioritize Timeless Filetypes
-author: Caleb Jolliffe
+author: Hayley Jolliffe
 date: 2024-01-09 13:00:00
 permalink: /:slug
 read: 2
