@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quit While You're On Top
-author: Caleb Jolliffe
+author: Hayley Jolliffe
 date: 2024-03-06 13:00:00
 permalink: /:slug
 read: 2
