@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Build in Public
-author: Caleb Jolliffe
+author: Hayley Jolliffe
 date: 2024-03-29
 permalink: /:slug
 ---
@@ -33,6 +33,6 @@ I'll be building much more frequently in public, and I'm excited to share it all
 
 Catch ya next week,
 
-Cal
+Hayley
 
-PS: Joining the [One a Month Club](https://ko-fi.com/calebjolliffe) is the easiest way to support my work, keep the lights on, and hold me accountable to finish this MVP. It's by no means necessary, but immensely appreciated. Also, be sure to show [Jira](https://janjira.work) and [Joe](https://joeczepil.com) some love.
+PS: Joining the [One a Month Club](https://ko-fi.com/hayleyjolliffe) is the easiest way to support my work, keep the lights on, and hold me accountable to finish this MVP. It's by no means necessary, but immensely appreciated. Also, be sure to show [Jira](https://janjira.work) and [Joe](https://joeczepil.com) some love.
