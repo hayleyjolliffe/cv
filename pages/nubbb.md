@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NUBBB: Design to Learn'
-author: Caleb Jolliffe
+author: Hayley Jolliffe
 permalink: /nubbb/
 ---
 
