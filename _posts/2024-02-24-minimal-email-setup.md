@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minimal Email Setup
-author: Caleb Jolliffe
+author: Hayley Jolliffe
 date: 2024-02-24 13:00:00
 permalink: /:slug
 read: 1
@@ -26,4 +26,4 @@ That's my minimalist email setup. Consider showing Carl and Manu some love, my s
 ## Further reading:
 > - [Carl Barenbrug, Minimal Email Setup](https://carlbarenbrug.com/minimal-email-setup)
 > - [Manuel Moreale, Minimal Email Setup](https://manuelmoreale.com/emails)
-> - [Caleb Jolliffe, Filetype](https://calebjolliffe.co/filetype/)
+> - [Hayley Jolliffe, Filetype](https://hayleyjolliffe.co/filetype/)
