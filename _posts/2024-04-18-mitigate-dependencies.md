@@ -16,4 +16,4 @@ By taking control of your own assets, you can easily migrate your data between s
 1. Your code
 2. Your notes
 
-Start with local HTML, plaintext, and [this](https://calebjolliffe.co/prioritize-timeless-filetypes).
+Start with local HTML, plaintext, and [this](https://hayleyjolliffe.co/prioritize-timeless-filetypes).
