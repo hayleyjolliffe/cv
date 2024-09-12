@@ -1,3 +1,2 @@
-# FOLIO
-
-The current iteration of my personal website.
+# cv
+my current site iteration
